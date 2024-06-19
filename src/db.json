@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "PBK",
+      "content": "SERU BANGET"
+    },
+    {
+      "id": "2",
+      "title": "PBO",
+      "content": "SANGAT SERU"
+    },
+    {
+      "id": "3",
+      "title": "GRAFIKOM",
+      "content": "LUMAYAN SERU"
+    },
+    {
+      "id": "5",
+      "title": "EDfff",
+      "content": "SERUfff"
+    },
+    {
+      "id": null,
+      "title": "",
+      "content": ""
+    }
+  ]
+}
